@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://studioyounique.pages.dev/sitemap.xml
